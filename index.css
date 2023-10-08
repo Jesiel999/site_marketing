@@ -665,7 +665,7 @@ main .divisorias-text{
   -webkit-text-fill-color: transparent;
 
     margin-bottom: 50px;
-    padding-top: 70px;
+    padding-top: 50px;
   }
 
   .container-equipe{
@@ -680,7 +680,7 @@ main .divisorias-text{
   .container-equipe::before{
     content: "";
     position: absolute;
-    top: 3440px;
+    top: 3420px;
     left: 0;
     width: 100%;
     min-height: 86vh;
